@@ -7,8 +7,6 @@
 ## 用法
 Notes目录中包括概念的讲解
 
-homework目录则是可以练习的地方
-
 ## 延伸阅读
 https://git-scm.com/
 
